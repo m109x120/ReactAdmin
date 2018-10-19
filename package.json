@@ -1,0 +1,9 @@
+{
+  "name": "adminReact",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/m109x120/ReactAdmin.git",
+  "author": "swain <m109x120@163.com>",
+  "license": "MIT",
+  "devDependencies": {}
+}
